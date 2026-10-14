@@ -20,6 +20,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SarthakBand/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -39,6 +41,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
