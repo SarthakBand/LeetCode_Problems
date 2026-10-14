@@ -30,8 +30,13 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SarthakBand/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
